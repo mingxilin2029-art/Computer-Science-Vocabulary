@@ -1,4 +1,4 @@
-``` bash
+``` 
 grocery-store/
 ├── aisle1/
 │   ├── fruits/
