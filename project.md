@@ -60,6 +60,26 @@ MESA/
         ├── writing_seminar.md
         └── global.md
 ```
-mkdir MESA/
-CD MESA/
-m
+1. mkdir MESA/
+2. CD MESA/
+3. mkidir bushwick/
+4. CD bushwick/
+5. mkdir second_floor/
+6. CD second_floor/
+7. mkdir english_class.md
+8. mkdir college_counselors.md
+9. mkdir history_class.md
+10. mkdir spanish_class.md
+11. CD ../
+12. mkdir third_floor
+13. CD third_floor
+14. touch english_class.txt
+15. touch algebra_1.txt
+16. touch global_class.txt
+17. CD ../..
+18. mkdir south_brooklyn/
+19. CD south_brooklyn/
+20. mkdir second_floor/
+21. CD second_floor/
+22. mkdir writing_seminar.md
+23. mkdir global.md
