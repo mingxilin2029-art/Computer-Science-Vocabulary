@@ -14,32 +14,27 @@ grocery-store/
     ├── dairy/
         ├── milk.txt
         └── cheese.txt
-...
-**
-mkdir grocery-store/
-CD grocery-store/
-mkdir alisle1/
-CD alisle1/ 
-mkdir fruits/
-CD fruits/ 
-touch apples.txt
-touch pears.txt
-touch mango.txt 
-touch papaya.txt
-CD ../
-mkdir vegetables/ 
-CD vegetables/ 
-touch celery.txt
-touch zucchini.txt
-touch zucchini.txt
-touch carrot.txt
-CD ../..
-**
-...
-mkdir aisle2/ 
-CD aisle2/ 
-mkdir dairy/
-touch milk.txt 
-touch cheese.txt
-**
-...
+***
+1. mkdir grocery-store/
+2. CD grocery-store/
+3. mkdir alisle1/
+4. CD alisle1/
+5. mkdir fruits/
+6. CD fruits/
+7. touch apples.txt
+8. touch pears.txt
+9. touch mango.txt
+10. touch papaya.txt
+11. CD ../
+12. mkdir vegetables/
+13. CD vegetables/
+14. touch celery.txt
+15. touch zucchini.txt
+16. touch zucchini.txt
+17. touch carrot.txt
+18. CD ../..
+19. mkdir aisle2/
+20. CD aisle2/
+21. mkdir dairy/
+22. touch milk.txt
+23. touch cheese.txt
