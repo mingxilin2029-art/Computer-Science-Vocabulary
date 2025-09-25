@@ -1,3 +1,4 @@
+``` bash
 grocery-store/
 ├── aisle1/
 │   ├── fruits/
@@ -14,6 +15,7 @@ grocery-store/
     ├── dairy/
         ├── milk.txt
         └── cheese.txt
+```
 ***
 1. mkdir grocery-store/
 2. CD grocery-store/
