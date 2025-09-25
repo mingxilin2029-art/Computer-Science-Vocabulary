@@ -14,6 +14,7 @@ grocery-store/
     ├── dairy/
         ├── milk.txt
         └── cheese.txt
+...
 **
 mkdir grocery-store/
 CD grocery-store/
@@ -33,6 +34,8 @@ touch zucchini.txt
 touch zucchini.txt
 touch carrot.txt
 CD ../..
+**
+...
 mkdir aisle2/ 
 CD aisle2/ 
 mkdir dairy/
