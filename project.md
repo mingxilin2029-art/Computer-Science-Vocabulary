@@ -41,3 +41,21 @@ grocery-store/
 21. mkdir dairy/
 22. touch milk.txt
 23. touch cheese.txt
+---
+``` bash
+MESA/
+├── bushwick/
+│   ├── second_floor
+│   │   ├── english_class.md
+│   │   ├── college_counselors.md
+│   │   ├── history_class.md  
+│   │   └── spanish_class.md
+│   └── third_floor
+│       ├── english_class.txt
+│       ├── algebra_1.txt
+│       ├── global_class.txt
+└── south_brooklyn/
+    ├── second_floor/
+        ├── writing_seminar.md
+        └── global.md
+```
