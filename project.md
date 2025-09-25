@@ -42,6 +42,7 @@ grocery-store/
 22. touch milk.txt
 23. touch cheese.txt
 ---
+# project 2
 ``` bash
 MESA/
 ├── bushwick/
