@@ -60,3 +60,6 @@ MESA/
         ├── writing_seminar.md
         └── global.md
 ```
+mkdir MESA/
+CD MESA/
+m
