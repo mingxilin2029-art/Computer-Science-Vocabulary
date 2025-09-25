@@ -1,4 +1,4 @@
-#short-response
+# short-response
 
 *1.What is github?*
 *github is where repository live*
